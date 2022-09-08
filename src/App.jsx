@@ -41,6 +41,7 @@ class App extends Component {
     }
     onSubmit(event){
         event.preventDefault()
+        alert("successfully")
     
 
         const registered = {
